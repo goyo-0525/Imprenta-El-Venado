@@ -1,0 +1,14 @@
+body{
+    background-color: #5fbe05
+}
+
+.titulos{
+    font-family: Impact;
+    font-size: 24pt;
+    margin: 10px;
+    color: #27aa12;
+}
+
+.titulos:hover{
+    font-size: 36pt;
+}
